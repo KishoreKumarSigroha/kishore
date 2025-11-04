@@ -4,7 +4,7 @@ print(a)
 print(b)
 print(a*b)
 print(a/b)
-
+print ("hello world")
 list=[1,3,4,5,6,"krishna"]
 print(list[3])
 print(list[-1])
